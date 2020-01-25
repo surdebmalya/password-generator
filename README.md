@@ -5,4 +5,4 @@ Write a programme, which generates a random password for the user. Ask the user 
 letters and numbers they want in their password. Have a mix of letters, as well as numbers and symbols. The password should be a minimum of 6 characters long.
 
 For details visit:
-https://dsasanengineer.blogspot.com/
+https://dsasanengineer.blogspot.com/2020/01/password-generator-by-python3.html
