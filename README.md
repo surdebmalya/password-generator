@@ -4,5 +4,5 @@ You have to generate password based on some criteria those are being mentioned b
 Write a programme, which generates a random password for the user. Ask the user how long they want their password to be, and how many 
 letters and numbers they want in their password. Have a mix of letters, as well as numbers and symbols. The password should be a minimum of 6 characters long.
 
-For details visit:
-https://dsasanengineer.blogspot.com/2020/01/password-generator-by-python3.html
+## For details visit:
+[Click Here](https://dsasanengineer.blogspot.com/2020/01/password-generator-by-python3.html) to visit related blog to this project!
